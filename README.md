@@ -11,9 +11,9 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Embedded%20system%20student;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-- 🏢 I'm a Computer Science Engineer at Egypt-Japan University of Science and Technology (EJUST)
+- 🏢 I'm a Computer Science Engineering Student at Egypt-Japan University of Science and Technology (EJUST)
 - 👨‍💻 As a CSE student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with C and microcintrollers, or anything related to embedded system.
+- 💬 Ask me about my experience with Data Analysis.
 
 
 ### Connect with Me :
